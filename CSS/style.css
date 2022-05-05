@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/01/2022, 09:53:56
+    Author     : 21635
+*/
+
+.carousel {
+  height: 600px;
+}
+.carousel-inner > .carousel-item > img {
+  height:600px;
+  object-fit: cover;
+}
+
+body{
+     min-height: 75rem;
+     padding-top: 4.5rem;
+}
+
+.carousel {
+  height: 600px;
+}
+.carousel-inner > .carousel-item > img {
+  height:600px;
+  object-fit: cover;
+}
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+
+.lead{
+  color: orange;
+}
+
+.embed-responsive-16by9{
+    width: 100%;
+}
+
+#mapa,#video{
+    width: 100%;
+    height: 600px;
+}
+
+#video{
+    background-color: black;
+}
+
+
+
+.about_color{
+    color: orange;
+}
+
+h3{
+    color: orange;
+    text-transform: uppercase;
+}
+
+.contact{
+    font-weight: bold;
+}
+
+
